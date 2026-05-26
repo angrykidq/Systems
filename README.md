@@ -1,35 +1,23 @@
-MIT-Based Source Available License (No Direct Sale)
-Copyright (c) 2026 angrykidq
+-- ╔══════════════════════════════════════════╗
+-- ║         HOTBAR SYSTEM by angrykidq       ║
+-- ║         © 2026 | All rights reserved     ║
+-- ╚══════════════════════════════════════════╝
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to use,
-copy, modify, merge, publish, and distribute the Software, subject to the
-following conditions:
+-- DESCRIPTION
+--   A flexible and lightweight hotbar system for Roblox.
+--   Features a built-in error logging system for easy debugging.
 
-1. PERMITTED USE
-   The Software may be used, integrated, or embedded in any product or project,
-   including commercial and paid products (e.g., games, applications, services),
-   provided the Software itself is not the primary item being sold.
+-- SETUP
+--   1. Ungroup Models into required Folder.
+--   2. Duplicate the Template tool.
+--   3. Place your Model inside the duplicate.
+--   4. Insert the required Scripts and Models into it.
+--   5. Adjust the configuration Values to fit your needs.
 
-2. RESTRICTIONS — NO DIRECT SALE
-   You may NOT sell, license for a fee, or otherwise commercially distribute:
-   (a) the Software as a standalone product;
-   (b) modified or derivative versions of the Software as a standalone product;
-   (c) the Software or its derivatives on any marketplace, asset store, or
-       platform (including but not limited to Unity Asset Store, Unreal
-       Marketplace, itch.io asset packs, GitHub Sponsors tiers, Gumroad, etc.)
-       where the Software or its derivatives are themselves the thing being
-       purchased.
+--   • Maximum slot count: 5
 
-3. ATTRIBUTION
-   The above copyright notice and this permission notice shall be included in
-   all copies or substantial portions of the Software.
-
-4. DISCLAIMER
-   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-   SOFTWARE.
+-- LICENSE
+--   This system is licensed under the angrykidq Source Available License.
+--   ✔ You MAY use this in your game, including paid/commercial games.
+--   ✘ You MAY NOT sell this system directly or in modified form
+--     on any marketplace or asset store.
