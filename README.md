@@ -1,6 +1,6 @@
 ### HOTBAR SYSTEM by angrykidq 
 
-##### © 2026 | All rights reserved 
+![demo](Hotbar.gif)
 
 #### DESCRIPTION
 -   A flexible and lightweight hotbar system for Roblox.
